@@ -3,10 +3,13 @@ Simple package for sending logger-like messages to Slack and Microsoft Teams.
 
 ### Install
 ```bash
+pip install git+https://github.com/tenJnd/notifier.git@main
+
 ```
 
 ### Usage - Example
 ```python
+from slack_bot.notifications import SlackNotifier, TeamsNotifier
 
 # Generate URLs (in how-to section)
 # Slack example: 'https://hooks.slack.com/services/T01Rku4T5LZ/j02JrBK8U14/oPD9PuzYfeBXdhmFAvWMV8sR'
