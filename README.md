@@ -3,7 +3,6 @@ Simple package for sending logger-like messages to Slack and Microsoft Teams.
 
 ### Install
 ```bash
-pip install --extra-index-url https://pypi.apps.creativedock.cloud slack_bot.notifications
 ```
 
 ### Usage - Example
