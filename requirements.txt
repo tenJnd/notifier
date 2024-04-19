@@ -1,0 +1,6 @@
+flake8>=3.7.9
+mypy>=0.740
+pylint>=2.4.3
+CMRESHandler>=1.0.0
+requests
+retrying
