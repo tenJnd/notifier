@@ -13,7 +13,7 @@ def readme():
 version = 1.0
 
 setup(
-    name='notifier.slack_bot',
+    name='slack_bot',
     version=version,
     description='simple package for sending msg to slack',
     long_description=readme(),
